@@ -26,6 +26,9 @@ sh: <https://github.com/amoffat/sh>
 		
 2. 需要先把apple打包需要的各种证书安装到keychain
 
+# 相关文章
+- [iOS自动化打包上传的踩坑记​](http://skytoup.wicp.net/2016/05/31/iOS%E8%87%AA%E5%8A%A8%E5%8C%96%E6%89%93%E5%8C%85%E4%B8%8A%E4%BC%A0%E7%9A%84%E8%B8%A9%E5%9D%91%E8%AE%B0/)
+
 ## 联系方式
 * QQ：875766917，请备注
 * Mail：875766917@qq.com
